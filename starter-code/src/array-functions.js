@@ -1,5 +1,8 @@
-var ArrayFunctions = function (){}
+class ArrayFunctions {
+  constructor () {
 
+  }
+  static printSpecial (array)
 // 1) Define a function that takes an array with numbers and prints all the elements of the array, separated by " --- "
 // ArrayFunctions.printSpecial([12, 33, 144, 122])
 // 12 -- 33 -- 144 -- 122
